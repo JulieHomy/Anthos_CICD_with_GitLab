@@ -1,4 +1,4 @@
-# Modern CI/CD with Anthos: Demo Guide
+# Modern CI/CD with Anthos
 
 ## Overview
 
